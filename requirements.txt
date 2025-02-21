@@ -1,0 +1,7 @@
+unsloth[cu118]==0.1.2
+torch==2.1.0
+transformers==4.36.0
+peft==0.7.0
+wandb==0.16.0
+llama-cpp-python==0.2.23
+tqdm==4.66.1

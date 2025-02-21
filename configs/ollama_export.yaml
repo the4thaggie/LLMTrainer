@@ -1,0 +1,7 @@
+quantization:
+  methods: ["Q4_K_M", "Q8_0"]
+  chat_template: "llama2"
+system_prompt: "You are an expert reasoning assistant"
+params:
+  temperature: 0.7
+  top_p: 0.9
