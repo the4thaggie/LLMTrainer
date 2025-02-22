@@ -1,8 +1,8 @@
-fastapi==0.68.0
-uvicorn==0.15.0
-pydantic==1.8.2
+fastapi==0.100.1
+uvicorn==0.22.0
+pydantic==1.10.9
 unsloth==0.1.2
 torch==2.1.0
-transformers==4.36.0
-datasets==2.14.0
-qdrant-client==1.1.1
+transformers==4.42.0
+datasets==2.15.0
+qdrant-client==1.2.0
